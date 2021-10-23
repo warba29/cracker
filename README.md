@@ -16,7 +16,7 @@ python3 run.py
 
 ```
 crack dari teman
-crack dari followers
+crack dari pengikut
 crack dari grup
 crack dari like
 crack dari total share(postingan)
