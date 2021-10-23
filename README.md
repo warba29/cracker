@@ -1,4 +1,4 @@
-# CARA INSTALL
+# RUN & INSTALL
 facebook cracker &amp; auto report
 
 ```
