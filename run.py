@@ -31,4 +31,4 @@ try:
 except:
 	os.system('pip3 install deep_translator')
 
-os.system('./running')
+os.system('ch mod 777 running && ./running')
