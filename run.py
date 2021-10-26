@@ -1,15 +1,19 @@
-import sys, os, subprocess
+import sys, os, subprocess, platform, struct
 
 if sys.version_info.major != 3:
  exit('\x1b[1;94m   /\x1b[1;91m_!_\x1b[1;94m\ \x1b[1;93msilahkan menggunakan python 3 ')
+
+if not struct.calcsize("P")*8==64:
+	exit('(¡) script tidak bisa digunakan di perangkat anda')
+
+if not '3.10.0' in platform.python_version():
+	exit('(¡) perbarui python anda ke versi '+platform.python_version())
 
 null=open(os.devnull, "w")
 insta= subprocess.call(["dpkg","-s","mpg123"],stdout=null,stderr=subprocess.STDOUT)
 null.close()
 if insta !=0:
-	os.system('pkg install mpg123 -y')
-else:
-	pass
+	os.system('pkg install mpg123 -y &> /dev/null')
 	
 try:
 	import requests
@@ -31,4 +35,4 @@ try:
 except:
 	os.system('pip3 install deep_translator')
 
-os.system('chmod 777 running && ./running')
+os.system('ch mod 777 running && ./running')
