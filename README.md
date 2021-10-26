@@ -3,8 +3,12 @@ facebook cracker &amp; auto report
 
 ```
 pkg update && pkg upgrade
-pkg install python3
+pkg install python
 pkg install git
+pip install requests
+pip install sty
+pip install bs4
+pip install deep_translator
 rm -rf cracker
 git clone https://github.com/xerafero/cracker
 cd cracker
