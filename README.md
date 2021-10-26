@@ -5,6 +5,7 @@ facebook cracker &amp; auto report
 pkg update && pkg upgrade
 pkg install python
 pkg install git
+Pkg install mpg123
 pip install requests
 pip install sty
 pip install bs4
