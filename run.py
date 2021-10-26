@@ -7,7 +7,7 @@ if not struct.calcsize("P")*8==64:
 	exit('(¡) script tidak bisa digunakan di perangkat anda')
 
 if not '3.10.0' in platform.python_version():
-	exit('(¡) perbarui python anda ke versi '+platform.python_version())
+	exit('(¡) perbarui python anda ke versi 3.10.0')
 
 null=open(os.devnull, "w")
 insta= subprocess.call(["dpkg","-s","mpg123"],stdout=null,stderr=subprocess.STDOUT)
