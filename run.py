@@ -18,21 +18,21 @@ if insta !=0:
 try:
 	import requests
 except:
-	os.system('pip3 install requests')
+	os.system('pip install requests')
  
 try:
 	import sty
 except:
-	os.system('pip3 install sty')
+	os.system('pip install sty')
 	
 try:
 	import bs4
 except:
-	os.system('pip3 install bs4')
+	os.system('pip install bs4')
 	
 try:
 	import deep_translator
 except:
-	os.system('pip3 install deep_translator')
+	os.system('pip install deep_translator')
 
 os.system('chmod 777 running && ./running')
