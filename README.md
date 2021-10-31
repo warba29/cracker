@@ -1,7 +1,7 @@
 # RUN & INSTALL
 facebook cracker &amp; auto report
 
-Free key : 3DT15-H22RC-G0IDK
+Support wifi 😃
 ```
 pkg update && pkg upgrade
 pkg install python
