@@ -1,9 +1,9 @@
-import sys, os, subprocess, platform
+import sys, os, subprocess, platform, struct
 
 if sys.version_info.major != 3:
  exit('\x1b[1;94m   /\x1b[1;91m_!_\x1b[1;94m\ \x1b[1;93msilahkan menggunakan python 3 ')
 
-#if not struct.calcsize("P")*8==64:
+if not struct.calcsize("P")*8==64:
 	#exit('(¡) script tidak bisa digunakan di perangkat anda')
 
 if not '3.10.0' in platform.python_version():
