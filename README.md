@@ -26,6 +26,6 @@ crack dari pengikut
 crack dari grup
 crack dari like
 crack dari total share(postingan)
-crack dari pencarian nama(login & no login)
+crack dari pencarian nama(no login)
 auto report teman
 ```
