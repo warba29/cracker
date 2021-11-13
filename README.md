@@ -6,11 +6,7 @@ Tidak Support wifi 🥲
 pkg update && pkg upgrade
 pkg install python
 pkg install git
-pkg install mpg123
-pip install requests
-pip install sty
-pip install bs4
-pip install deep_translator
+pip install --upgrade -r requirements.txt
 rm -rf cracker
 git clone https://github.com/xerafero/cracker
 cd cracker
