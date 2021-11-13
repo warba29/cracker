@@ -1,7 +1,7 @@
 # RUN & INSTALL
 facebook cracker &amp; auto report
 
-Tidak Support wifi 🥲
+Support wifi 😃😄
 ```
 pkg update && pkg upgrade
 pkg install python
