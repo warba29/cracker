@@ -6,10 +6,10 @@ Support wifi 😃😄
 pkg update && pkg upgrade
 pkg install python
 pkg install git
-python -m pip install -r requirements.txt
 rm -rf cracker
 git clone https://github.com/xerafero/cracker
 cd cracker
+python -m pip install -r requirements.txt
 python run.py
 ```
 
