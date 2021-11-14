@@ -10,7 +10,7 @@ python -m pip install -r requirements.txt
 rm -rf cracker
 git clone https://github.com/xerafero/cracker
 cd cracker
-python3 run.py
+python run.py
 ```
 
 
