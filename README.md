@@ -1,4 +1,4 @@
-# RUN & INSTALL
+# INSTALL
 facebook cracker &amp; auto report
 
 Support wifi 😃😄
