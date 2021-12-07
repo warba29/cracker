@@ -9,7 +9,6 @@ pkg install git
 rm -rf cracker
 git clone https://github.com/xerafero/cracker
 cd cracker
-python -m pip install -r requirements.txt
 python run.py
 ```
 
