@@ -1,3 +1,4 @@
+Only for termux
 # INSTALL
 facebook cracker &amp; auto report
 
