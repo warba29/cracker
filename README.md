@@ -1,7 +1,6 @@
 # INSTALL
 facebook cracker &amp; auto report
 
-Support wifi 😃😄
 ```
 pkg update && pkg upgrade
 pkg install python
