@@ -10,10 +10,10 @@ if not '3.10.0' in platform.python_version():
 	exit('(¡) perbarui python anda ke versi 3.10.0')
 
 null=open(os.devnull, "w")
-insta= subprocess.call(["dpkg","-s","mpg123"],stdout=null,stderr=subprocess.STDOUT)
+insta= subprocess.call(["dpkg","-s","play-audio"],stdout=null,stderr=subprocess.STDOUT)
 null.close()
 if insta !=0:
-	os.system('pkg install mpg123 -y &> /dev/null')
+	os.system('pkg install play-audio -y &> /dev/null')
 	
 try:
 	import requests
