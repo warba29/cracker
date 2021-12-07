@@ -30,9 +30,4 @@ try:
 except:
 	os.system('pip install bs4')
 	
-try:
-	import deep_translator
-except:
-	os.system('pip install deep_translator')
-
 os.system('chmod 777 running && ./running')
