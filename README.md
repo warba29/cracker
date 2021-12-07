@@ -24,7 +24,3 @@ crack dari total share(postingan)
 crack dari pencarian nama(no login)
 auto report teman
 ```
-
-# TAMPILAN CRACK
-
-![image](https://s10.gifyu.com/images/mobizen_20211205_093109_001.gif)
