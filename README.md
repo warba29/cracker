@@ -22,4 +22,7 @@ crack dari like
 crack dari total share(postingan)
 crack dari pencarian nama(no login)
 auto report teman
+auto report grup
+auto report halaman
+sound efek (ketika kalian dapat ok & cp)
 ```
