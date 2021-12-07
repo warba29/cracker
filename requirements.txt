@@ -1,4 +1,0 @@
-requests
-sty
-bs4
-deep_translator
