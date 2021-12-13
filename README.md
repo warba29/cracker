@@ -1,10 +1,8 @@
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
 
 -- -
-``` css
  Hanya bisa dijalankan di termux
  Memerlukan python versi 3.10.0 ke atas
-```
 -- --
 
 # INSTALL
