@@ -5,7 +5,7 @@
  Hanya bisa dijalankan di termux
  Memerlukan python versi 3.10.0 ke atas
 ```
--- -
+-- --
 
 # INSTALL
 facebook cracker &amp; auto report
