@@ -1,6 +1,6 @@
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
 -- -
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monoscape&color=%23FF123F&size=15&multiline=true&lines=Memerlukan+Python+3.10.0+%2B%2B;Hanya+bisa+di+jalankan+ditermux)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monoscape&color=%23FF123F&size=16&multiline=true&lines=Memerlukan+python+3.10.0+%2B%2B;Hanya+bisa+di+jalankan+di+termux)](https://git.io/typing-svg)
 -- --
 
 # INSTALL
