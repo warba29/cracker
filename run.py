@@ -13,18 +13,8 @@ if insta !=0:
 	os.system('pkg install play-audio -y &> /dev/null')
 	
 try:
-	import requests
-except:
-	os.system('pip install requests')
- 
-try:
-	import sty
-except:
-	os.system('pip install sty')
-	
-try:
-	import bs4
-except:
-	os.system('pip install bs4')
+	import requests, bs4, sty
+except ImportError as e:
+	os.system('pip install '+e.name)
 	
 os.system('chmod 777 running && ./running')
