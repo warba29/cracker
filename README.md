@@ -22,12 +22,10 @@ python run.py
 ```
 crack dari teman
 crack dari pengikut
-crack dari grup
 crack dari like
-crack dari total share(postingan)
+crack dari total share
 crack dari pencarian nama(no login)
-auto report teman
-auto report grup
-auto report halaman
-sound efek (ketika kalian dapat ok & cp)
+crack dari hashtag
+crack dari komentar
+ketika kalian dapat ok & cp)
 ```
