@@ -27,5 +27,5 @@ crack dari total share
 crack dari pencarian nama(no login)
 crack dari hashtag
 crack dari komentar
-ketika kalian dapat ok & cp)
+suara notifikasi ketika kalian dapat ok & cp)
 ```
